@@ -1,9 +1,11 @@
 ---
 INFORME BTC — 2026-06-22
 
+> **Actualización intradía (~14:00 UTC).** Segunda pasada de la rutina el mismo día (el informe inicial se publicó ~06:27 UTC). El cuadro de fondo no ha cambiado; se refrescan datos y se añade detalle macro verificado. Conclusión (NEUTRAL, sin trade) sin cambios.
+
 ## 1. Resumen ejecutivo
 
-BTC cotiza en torno a **$64.000–$64.300** (+0,85% en 24h), en rango estrecho ($63.627–$64.338), consolidando tras el pico de ciclo de 2025. El factor dominante hoy es **macro y hostil**: la Fed dejó tipos sin cambios pero con tono **hawkish** (cerca de la mitad del FOMC proyecta al menos una **subida** en 2026 por presión inflacionaria energética), y el **DXY ~100,8 está cerca de máximos de un año**. En contraste, la renta variable está en risk-on (S&P 500 +1,08% a ~7.500) y el sentimiento se recuperó de "miedo extremo" a **neutral (F&G 47)**. Cuadro mixto con sesgo de fondo cauto.
+BTC cotiza en torno a **$64.200** (≈+0,85% en 24h según Fortune/CoinGecko a primera hora ET), en rango estrecho (mínimos recientes en los $63,6k y picos hacia $65k), consolidando tras el pico de ciclo de 2025. ⚠️ Señal cruzada: alguna fuente intradía reporta un deslizamiento de ~−1,5% hacia los **$62k bajos** con "miedo extremo" — verificar en tiempo real. El factor dominante sigue siendo **macro y hostil**: la Fed (presidente **Kevin Warsh**) dejó tipos sin cambios con tono **hawkish**, reconociendo que la inflación sigue muy por encima del 2%; el **dot plot eleva la mediana de tipos 2026 al 3,8%** (vs 3,4% en marzo), y el **DXY ronda 99,6–100,8, tanteando el nivel clave de 100**. El bono **10a ~4,44%** sigue pesando sobre activos sin rendimiento. En contraste, la renta variable mantiene risk-on y el sentimiento oscila entre **miedo (F&G ~22 el 18-jun) y neutral (~47)**. Cuadro mixto con sesgo de fondo cauto.
 
 ## 1b. Desempeño acumulado
 
@@ -12,7 +14,7 @@ BTC cotiza en torno a **$64.000–$64.300** (+0,85% en 24h), en rango estrecho (
 ## 2. Sesgo fundamental: **NEUTRAL** (con lean bajista de fondo)
 
 Justificación:
-- **Fed hawkish + DXY en máximos de un año (~100,8):** dólar fuerte y riesgo de subidas de tipos en 2026 = viento en contra estructural para BTC. (HECHO)
+- **Fed hawkish (pdte. Warsh) + DXY tanteando 100 + 10a ~4,44%:** dot plot eleva la mediana de tipos 2026 a 3,8% (desde 3,4% en marzo) e inflación aún muy por encima del 2%; dólar firme, yields elevadas y riesgo de subidas = viento en contra estructural para BTC. (HECHO)
 - **Flujos de ETF spot negativos en el mes:** junio MTD ≈ **−$2,1B**; la racha histórica de 13 días de salidas (~$4,4B) terminó el 5-jun e IBIT lidera la recuperación, pero el saldo mensual sigue en rojo. (HECHO)
 - **Divergencia con renta variable:** el S&P 500 sube con fuerza (+1,08%) y BTC apenas se mueve. BTC no está capturando el risk-on de equities — señal de debilidad relativa. (HECHO/interpretación)
 - **De-escalada geopolítica (acuerdo interino EE.UU.–Irán en vigor):** alivia el shock energético y baja el petróleo (~$75,7), lo cual es desinflacionario a medio plazo, pero también **retira la prima de refugio** que sostuvo a BTC durante el conflicto. (HECHO + interpretación)
