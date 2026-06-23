@@ -1,2 +1,2 @@
 fecha_informe,sesgo,confianza,hubo_trade,direccion_trade,resultado_direccion,invalidacion_respetada,nota_breve
-2026-06-22,NEUTRAL,Baja,no,NA,PENDIENTE,NA,Primer informe del repositorio - sin informe previo que evaluar
+2026-06-22,NEUTRAL (lean bajista),Baja,no,NA,ACERTO,NA,BTC cayo de ~$65k a ~$62.3k (-4% 24h); se alcanzo el objetivo bajista de $62k del escenario. El lean bajista acerto; etiqueta NEUTRAL fue conservadora
