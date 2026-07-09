@@ -1,3 +1,4 @@
 fecha_informe,sesgo,confianza,hubo_trade,direccion_trade,resultado_direccion,invalidacion_respetada,nota_breve
 2026-06-22,NEUTRAL (lean bajista),Baja,no,NA,ACERTO,NA,BTC cayo de ~$65k a ~$62.3k (-4% 24h); se alcanzo el objetivo bajista de $62k del escenario. El lean bajista acerto; etiqueta NEUTRAL fue conservadora
 2026-06-23,BAJISTA,Media,si,short,ACERTO,SI,"Cerrado con retraso (~2 sem). BTC cayo de ~$62.3k a $59.023 el 24-25 jun tras PCE caliente (4.1%); se alcanzaron objetivos $60k y hacia $58k. Nunca cerro sobre $65k (invalidacion respetada). Direccion short correcta"
+2026-07-08,BAJISTA,Media,si,short,ACERTO,SI,"BTC cayo de ~$62-63k (8-jul) a un minimo de ~$59.5k-$59.75k (Robinhood 5pm EDT 9-jul) por colapso de la tregua Iran-Ormuz y risk-off; se alcanzo el objetivo bajista de $59k. Nunca cerro sobre $65k (invalidacion respetada). Direccion short ACERTO. Dispersion de precio entre fuentes (Fortune 8:30am ET marcaba $62.666)"
